@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of mitismirza/text-align.** Not for installation: use [Packagist](https://packagist.org/packages/mitismirza/text-align) or the [upstream repository](https://github.com/MmKargar/text-align).
 
-**0** versions archived · Latest: [`v1.0`](https://github.com/flarchive/mitismirza-text-align/tree/archive/v1.0) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**1** versions archived · Latest: [`v1.0`](https://github.com/flarchive/mitismirza-text-align/tree/archive/v1.0) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2019-08-27 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/mitismirza-text-align/tree/archive/v1.0) |
 
 Catalog entry: [packages/mitismirza-text-align.json](https://github.com/flarchive/archive-index/blob/main/packages/mitismirza-text-align.json)
 
